@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Visual learning ytb.props" />
+</Project>

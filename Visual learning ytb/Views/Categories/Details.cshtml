@@ -1,0 +1,117 @@
+﻿@model Visual_learning_ytb.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Category</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<div class="row">
+	<!-- Product thumb imgs -->
+	<div class="col-md-4  col-md-pull-5">
+		<div id="product-imgs">
+			<div class="product-preview">
+				<img src="@Model?.ImageUrl" alt="">
+			</div>
+
+			<div class="product-preview">
+				<img src="./img/product03.png" alt="">
+			</div>
+
+			<div class="product-preview">
+				<img src="./img/product06.png" alt="">
+			</div>
+
+			<div class="product-preview">
+				<img src="./img/product08.png" alt="">
+			</div>
+		</div>
+	</div>
+	<!-- /Product thumb imgs -->
+	<!-- Product details -->
+	<div class="col-md-8">
+		<div class="product-details">
+			<h2 class="product-name">@Model?.Name</h2>
+			<div>
+				<div class="product-rating">
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star-o"></i>
+				</div>
+				<a class="review-link" href="#">10 Review(s) | Add your review</a>
+			</div>
+			<div>
+				<h3 class="product-price">$980.00 <del class="product-old-price">$@Model.Price</del></h3>
+				<span class="product-available">In Stock</span>
+			</div>
+			<p>@Model.Description</p>
+
+			<div class="product-options">
+				<label>
+					Size
+					<select class="input-select">
+						<option value="0">X</option>
+					</select>
+				</label>
+				<label>
+					Color
+					<select class="input-select">
+						<option value="0">Red</option>
+					</select>
+				</label>
+			</div>
+
+			<div class="add-to-cart">
+				<div class="qty-label">
+					Qty
+					<div class="input-number">
+						<input type="number">
+						<span class="qty-up">+</span>
+						<span class="qty-down">-</span>
+					</div>
+				</div>
+				<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+			</div>
+
+			<ul class="product-btns">
+				<li><a href="#"><i class="fa fa-heart-o"></i> add to wishlist</a></li>
+				<li><a href="#"><i class="fa fa-exchange"></i> add to compare</a></li>
+			</ul>
+
+			<ul class="product-links">
+				<li>Category:</li>
+				<li><a href="#">Headphones</a></li>
+				<li><a href="#">Accessories</a></li>
+			</ul>
+
+			<ul class="product-links">
+				<li>Share:</li>
+				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="#"><i class="fa fa-envelope"></i></a></li>
+			</ul>
+
+		</div>
+	</div>
+	<!-- /Product details -->
+</div>

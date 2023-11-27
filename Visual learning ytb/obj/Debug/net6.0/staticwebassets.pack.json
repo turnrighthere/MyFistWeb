@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Visual learning ytb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Visual learning ytb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\hotdeal.png",
+      "PackagePath": "staticwebassets\\img\\hotdeal.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\iphone-14-pro-max-tim.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone-14-pro-max-tim.jpg"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product01.png",
+      "PackagePath": "staticwebassets\\img\\product01.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product02.png",
+      "PackagePath": "staticwebassets\\img\\product02.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product03.png",
+      "PackagePath": "staticwebassets\\img\\product03.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product04.png",
+      "PackagePath": "staticwebassets\\img\\product04.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product05.png",
+      "PackagePath": "staticwebassets\\img\\product05.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product06.png",
+      "PackagePath": "staticwebassets\\img\\product06.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product07.png",
+      "PackagePath": "staticwebassets\\img\\product07.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product08.png",
+      "PackagePath": "staticwebassets\\img\\product08.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\product09.png",
+      "PackagePath": "staticwebassets\\img\\product09.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\shop01.png",
+      "PackagePath": "staticwebassets\\img\\shop01.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\shop02.png",
+      "PackagePath": "staticwebassets\\img\\shop02.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\img\\shop03.png",
+      "PackagePath": "staticwebassets\\img\\shop03.png"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\trường\\Năm 3\\Xây dựng httt trên framework\\Visual learning ytb\\Visual learning ytb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Visual learning ytb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Visual learning ytb.props",
+      "PackagePath": "build\\Visual learning ytb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Visual learning ytb.props",
+      "PackagePath": "buildMultiTargeting\\Visual learning ytb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Visual learning ytb.props",
+      "PackagePath": "buildTransitive\\Visual learning ytb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
